@@ -1,4 +1,4 @@
 
 #!/bin/bash
 cd /
-./lab_instructions.sh
+./lab-instructions.sh
